@@ -10,8 +10,6 @@ hello hzb
 hello hzb
 hello hzb
 hello hzb
-hello hzb   master test
-hello hzb
-hello hzb
-hello nihao
+hello hzb   master test  
+hello nihao hot-fix test
 di san ci xiugai 
